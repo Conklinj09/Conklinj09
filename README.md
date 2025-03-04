@@ -5,6 +5,7 @@
 - 🐾I'm always open to collaborations with others, and love to create passion projects for fun!
 - 📫 How to reach me... you can email me at jeanettecodes@gmail.com 
 - If you feel you have a good project you'd like to collaborate on please feel free to reach out to me!
+- Here is a direct link to my Portfolio ---> https://conklinj09.github.io/Portfolio/
 
 <!---
 Conklinj09/Conklinj09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
